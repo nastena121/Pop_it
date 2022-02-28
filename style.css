@@ -1,0 +1,233 @@
+/*.html{
+	width: 1366px;
+} */
+.body{
+
+	margin: 0;
+}
+
+.wrapper{
+	margin: auto;
+	background: #FFBF69 50% 27% no-repeat url(image/background.png);
+	background-size: 77% auto;
+}
+
+.header{
+	/*width: 1366px;*/
+	margin:auto;
+
+}
+
+.head{
+padding: 7px 26% 128px 93px;
+}
+
+.logo, .menu{
+	display: inline-block;
+}
+
+.logo {
+	font: 600 20px/15px 'Montserrat', sans-serif;
+	    padding: 23px 3px 23px 77px;
+	    position: relative;
+}
+
+.menu__box{
+	display: none;
+}
+
+.menu{
+	display: flex;
+	align-items: center;
+}
+
+.menu__item{
+	position: relative;
+margin-right: 82px;
+font: 600 18px/21px 'Montserrat', sans-serif;
+color: #000;
+text-decoration: none;
+}
+
+.head__title{
+	font: 900 162px/46px 'Montserrat', sans-serif;
+	line-height: 3.8vw;
+	color: #FFFFFF;
+	margin: 60px 0 55px -7px;
+}
+
+.header_menu_logo{
+	display: flex;
+	padding: 0px 11px 87px 6px;
+	justify-content: space-between;
+}
+.head__discription {
+	font: 700 29px/34px 'Montserrat', sans-serif;
+	color: #FFFFFF;
+	margin: 67px 200px 86px 0;
+}
+
+.head__button {
+	display: inline-block;
+	font: 600 28px/23px 'Montserrat', sans-serif;
+	color: #000000;
+	background: #CBF3F0;
+	padding: 27px 81px;
+	text-decoration: none;
+}
+.main__button1{
+	display: inline-block;
+	    font: 600 18px/23px 'Montserrat', sans-serif;
+	    color: #000000;
+	    background: #FFBF69;
+	    padding: 12px 33px;
+	    text-decoration: none;
+	    margin: 0px 0px 0px 114px;
+	}
+
+
+
+.main__title2{
+	font: 800 29px/49px 'Montserrat', sans-serif;
+	    text-align: center;
+	    margin: 102px 0 0;
+}
+.main__discription {
+	font: 500 14px/27px 'Montserrat', sans-serif;
+	    text-align: center;
+	    margin: 8px 0 92px;
+}
+.main_card{
+	padding: 0 0 110px 0;
+	    background-color: #CBF3F0;
+}
+
+.main__title1{
+	font: 900 29px/49px 'Montserrat', sans-serif;
+	padding: 104px 0 12px 0;
+	text-align: center;
+}
+
+.blok{
+	display: flex;
+	    width: 87%;
+	    margin: 0px 0 0 137px;
+}
+.main__cicre, .main__among, .main__cub{
+		/*box-shadow: 0 0 10px rgba(0,0,0,0.5);
+			*/width: 380px;
+				position: relative;
+}
+
+
+.main__cub{
+	background: top center url(image/square.png) no-repeat;
+	padding: 165px 10px 0 10px;
+	background-size: 42% auto;
+	margin-right: 56px;
+}
+
+.main__cub_discription{
+	font: 800 18px/25px 'Montserrat', sans-serif;
+    margin: 19px 44px 16px 41px;
+    text-align: center;
+}
+.main__button2{
+	display: inline-block;
+	    font: 600 18px/23px 'Montserrat', sans-serif;
+	    color: #000000;
+	    background: #FFBF69;
+	    padding: 12px 33px;
+	    text-decoration: none;
+	    margin: 0px 0px 0px 114px;
+}
+
+.main__button3{
+	display: inline-block;
+	    font: 600 18px/23px 'Montserrat', sans-serif;
+	    color: #000000;
+	    background: #FFBF69;
+	    padding: 12px 33px;
+	    text-decoration: none;
+	    margin: 0px 0px 0px 114px;
+}
+
+.main__cicre{
+	background: top 0px center url(image/round.png) no-repeat;
+	    padding: 160px 10px 0 10px;
+	    background-size: 42% auto;
+	    margin-right: 53px;
+
+	}
+
+			.main__cicre_discription{
+				font: 800 18px/25px 'Montserrat', sans-serif;
+				    margin: 25px 44px 15px 44px;
+				    text-align: center;
+}
+						.main__among{
+							background: top center url(image/amongus.png) no-repeat;
+					    padding: 169px 1px 0 10px;
+					    background-size: 43% auto;
+					    margin-right: 49px;
+
+	}
+	.main__among_discription{
+		font: 800 18px/25px 'Montserrat', sans-serif;
+margin: 16px 48px 14px 53px;
+text-align: center;
+}
+.ground{
+	background: url(image/bg-grid.png) 51% 87% no-repeat;
+	    background-size: 88% auto;
+}
+.main{
+	margin: auto;
+	background: 91% 49% url(image/photo.jpg) no-repeat;
+	background-size: 33% auto;
+	padding: 177px 2px 150px 92px;
+}
+
+.main__discription3{
+	font: 500 15px/17px 'Montserrat', sans-serif;
+	margin: -10px 0 86px 0;
+}
+
+.main__title3{
+	font: 700 28px/49px 'Montserrat', sans-serif;
+	    padding: 0 0 2px 0px;
+}
+.page__footer{
+	background-color:#333333 ;
+}
+.footer__item{
+	position: relative;
+	margin-right: 82px;
+	font: 600 18px/21px 'Montserrat', sans-serif;
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.footer__box{
+	display: none;
+}
+
+	.logo1, .footer{
+		display: inline-block;
+	}
+
+	.logo1 {
+		font:  600 20px/15px 'Montserrat', sans-serif;
+color: #FFFFFF;
+				padding: 23px 3px 23px 77px;
+		    position: relative;
+	}
+	.page__footer{
+		display: flex;
+		padding: 0px 11px 87px 6px;
+		justify-content: space-between;
+	}
+
+.footer{
+	display: flex;
+	align-items: center;
+}
